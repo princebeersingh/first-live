@@ -1,0 +1,36 @@
+.flag{
+    left: 200px;
+    top: 200px;
+    position: relative;
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+.red{
+    background-color: red;
+    height: 100px;
+    width: 400px;
+}
+.white{
+    background-color: white;
+    height: 100px;
+    position: relative;
+    width: 400px;
+}
+.blue{
+    background-color:rgb(29, 29, 106);
+    position:absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    left: 37.5%;
+    top: 0%;
+}
+.green{
+    background-color:green;
+    height: 100px;
+    width: 400px;
+}
+body{
+    background-color: black;
+}
